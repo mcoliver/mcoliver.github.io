@@ -1,6 +1,6 @@
 # Michael Oliver
 Hello. I have spent a decade and a half building and designing infrastructure and pipelines that produce <a href='https://linkedin.com/in/michaelcoliver'>Hollywood movies</a>.
-<p><br>
+<p>
 My career has focused on emerging technologies, networking, security, compute clusters, high performance storage, pipeline, and workflow automation.  Leveraging technology to empower creatives to realize their visions.
 <p>
 In my free time I write <a href='https://github.com/hdev-moliver'>code</a>, surf, run, and read (quite a bit). Interests include macroeconmic finance, bioinformatics and genomics, the evolution of networks and computing, 19th century US history, and historical expeditions and exploration.
