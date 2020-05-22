@@ -12,6 +12,5 @@ I was once an <a href='https://www.imdb.com/name/nm1974826/?ref_=fn_al_nm_5'>FBI
 <li><a href = 'https://github.com/mcoliver'>Github</a></li>
 <li><a href = 'https://linkedin.com/in/michaelcoliver'>LinkedIn</a></li>
 <li><a href = 'https://www.imdb.com/name/nm1974826/?ref_=fn_al_nm_5'>IMDB</a></li>
-</ul>
 <p>
 <img src='michael-oliver.jpeg'>
