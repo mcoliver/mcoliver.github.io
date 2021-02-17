@@ -3,7 +3,7 @@ Hello. I have spent a decade and a half building and designing infrastructure an
 <p>
 My career has focused on emerging technologies, networking, security, compute clusters, high performance storage, pipeline, and workflow automation.  Leveraging technology to empower creatives to realize their visions.
 <p>
-In my free time I write <a href='https://github.com/hdev-moliver'>code</a>, surf, run, and read (quite a bit). Interests include macroeconmic finance, bioinformatics and genomics, the evolution of networks and computing, 19th century US history, and historical expeditions and exploration.
+In my free time I write code for fun, surf, run, and read (quite a bit). Interests include macroeconmic finance, bioinformatics and genomics, the evolution of networks and computing, 19th century US history, and historical expeditions and exploration.
 <p>
 I was once an <a href='https://www.imdb.com/name/nm1974826/?ref_=fn_al_nm_5'>FBI agent</a> on the TV show Criminal Minds, have driven the entire coast of Ecuador, and traveled the entire Baja peninsula by both boat and car.
 <p>
