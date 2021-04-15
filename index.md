@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 # Michael Oliver
 Hello. I have spent a decade and a half building and designing infrastructure and pipelines that produce <a href='https://linkedin.com/in/michaelcoliver'>Hollywood movies</a>.
 <p>
