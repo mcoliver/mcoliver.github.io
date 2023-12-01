@@ -37,7 +37,7 @@ I was once a [FBI agent]({{ site.urls.imdb }}) on the TV show Criminal Minds, ha
 ## Random Side Projects for Fun
 - [Throw Lasso](https://www.throwlasso.com) A Chrome automation extension that assists with quickly clipping digital coupons
 - [$MCOLIVER](https://www.gothematic.com/index/mcoliver) - My personal ETF
-
+<iframe width="100%" height="480" src="https://www.gothematic.com/embed/index/percent-graph/mcoliver" frameborder="0"></iframe>
 
 | Web Presence |
 | ---------- |
