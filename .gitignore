@@ -1,0 +1,8 @@
+_site
+.sass-cache
+vendor
+.bundle
+Gemfile
+Gemfile.lock
+.DS_Store
+

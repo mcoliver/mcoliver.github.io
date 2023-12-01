@@ -1,0 +1,15 @@
+remote_theme: pages-themes/primer
+plugins:
+  - jekyll-remote-theme
+title: Michael Oliver
+description: Michael Oliver, a high performance product, engineer and servant leader
+google_analytics: G-R7H1PYEMVX
+profile_picture: assets/images/michael-oliver.jpeg
+urls:
+  linkedin: https://linkedin.com/in/michaelcoliver
+  substack: https://mcoliver.substack.com
+  x: https://x.com/mcoliver
+  github: https://github.com/mcoliver
+  mastodon: https://mastodon.social/@mcoliver
+  imdb: https://www.imdb.com/name/nm1974826/?ref_=fn_al_nm_5
+  resume: https://docs.google.com/document/d/1-VzBXlMnipmaA5JF-bgMoFMtNaJYdID-J4piE_FEX28
