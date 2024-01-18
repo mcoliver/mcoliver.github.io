@@ -8,6 +8,15 @@ title-heading: false
 |[Google Doc]({{ site.urls.resume }})|
 |[PDF]({{ site.urls.resume }}/export?format=pdf)|
 
+| Web Presence |
+| ---------- |
+| [![LinkedIn](assets/images/linkedin.png)]({{ site.urls.linkedin }}) [LinkedIn]({{ site.urls.linkedin }}) |
+| [![Substack - Mindful Ruminations](assets/images/substack.png)]({{ site.urls.substack }}) [Substack - Mindful Ruminations]({{ site.urls.substack }})|
+| [![Github](assets/images/github.png)]({{ site.urls.github }}) [Github]({{ site.urls.github }})|
+| [![X / Twitter](assets/images/x.png)]({{ site.urls.x }}) [X / Twitter]({{ site.urls.x }})|
+| [![@mcoliver@mastodon.social](assets/images/mastodon.png)]({{ site.urls.mastodon }}) [@mcoliver@mastodon.social]({{ site.urls.mastodon }})|
+| [![IMDB](assets/images/imdb.png)]({{ site.urls.imdb }}) [IMDB]({{ site.urls.imdb }})|
+
 Hello. Since 2005 I have been [designing, building, and leading high performance global]({{ site.urls.linkedin }})
 - **Infrastructure**
 - **Teams**
@@ -38,14 +47,5 @@ I was once a [FBI agent]({{ site.urls.imdb }}) on the TV show Criminal Minds, ha
 - [Throw Lasso](https://www.throwlasso.com) A Chrome automation extension that assists with quickly clipping digital coupons
 - [$MCOLIVER](https://www.gothematic.com/index/mcoliver) - My personal ETF
 <iframe width="100%" height="480" src="https://www.gothematic.com/embed/index/percent-graph/mcoliver" frameborder="0"></iframe>
-
-| Web Presence |
-| ---------- |
-| [![LinkedIn](assets/images/linkedin.png)]({{ site.urls.linkedin }}) [LinkedIn]({{ site.urls.linkedin }}) |
-| [![Substack - Mindful Ruminations](assets/images/substack.png)]({{ site.urls.substack }}) [Substack - Mindful Ruminations]({{ site.urls.substack }})|
-| [![Github](assets/images/github.png)]({{ site.urls.github }}) [Github]({{ site.urls.github }})|
-| [![X / Twitter](assets/images/x.png)]({{ site.urls.x }}) [X / Twitter]({{ site.urls.x }})|
-| [![@mcoliver@mastodon.social](assets/images/mastodon.png)]({{ site.urls.mastodon }}) [@mcoliver@mastodon.social]({{ site.urls.mastodon }})|
-| [![IMDB](assets/images/imdb.png)]({{ site.urls.imdb }}) [IMDB]({{ site.urls.imdb }})|
 
 ![michael oliver profile picture]({{ site.profile_picture }})
