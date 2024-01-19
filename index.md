@@ -1,7 +1,7 @@
 ---
 title-heading: false
 ---
-# Michael Oliver
+# Michael Oliver 
 
 | Current Resume |
 | ---------- |
